@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-landingpage/static/css/main.61468ee9.css",
+    "main.js": "/react-landingpage/static/js/main.fde38c38.js",
+    "static/js/453.33b40b25.chunk.js": "/react-landingpage/static/js/453.33b40b25.chunk.js",
+    "static/media/photo_1_assign.png": "/react-landingpage/static/media/photo_1_assign.d84e542f56a4b4ab295b.png",
+    "static/media/photo_2_assign.png": "/react-landingpage/static/media/photo_2_assign.136df9ed426a0732bf08.png",
+    "static/media/photo_5_assign.png": "/react-landingpage/static/media/photo_5_assign.cea497a7e9afe87cdecd.png",
+    "static/media/photo_6_assign.png": "/react-landingpage/static/media/photo_6_assign.499742c10fb6fdfa5f2e.png",
+    "static/media/photo_3_assign.png": "/react-landingpage/static/media/photo_3_assign.4c693bb1b8b50525ace8.png",
+    "static/media/photo_4_assign.png": "/react-landingpage/static/media/photo_4_assign.ec4636b180da2ba40b78.png",
+    "static/media/photo_7_assign.png": "/react-landingpage/static/media/photo_7_assign.4fd0b06d4f606a6e091e.png",
+    "index.html": "/react-landingpage/index.html",
+    "main.61468ee9.css.map": "/react-landingpage/static/css/main.61468ee9.css.map",
+    "main.fde38c38.js.map": "/react-landingpage/static/js/main.fde38c38.js.map",
+    "453.33b40b25.chunk.js.map": "/react-landingpage/static/js/453.33b40b25.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61468ee9.css",
+    "static/js/main.fde38c38.js"
+  ]
+}
