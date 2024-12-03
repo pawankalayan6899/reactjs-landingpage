@@ -166,6 +166,8 @@ const App = () => {
       View All Posts
     </button>
   </div>
+
+  
   
         <div className="blog-list">
           <div className="blog-item">
