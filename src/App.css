@@ -1,5 +1,4 @@
 /* General Styles */
-
 body {
   margin: 0;
   font-family: Arial, sans-serif;
@@ -24,7 +23,7 @@ body {
 }
 
 .navbar .logo {
-  margin-right: 40px; /* Space between logo and nav links */
+  margin-right: 40px;
 }
 
 .navbar a {
@@ -32,10 +31,6 @@ body {
   text-decoration: none;
   color: #333;
 }
-
-
-
-/* New Feature Box */
 
 .new-feature-box {
   display: flex;
@@ -58,10 +53,6 @@ body {
   cursor: pointer;
 }
 
-
-
-/* Hero Section */
-
 .hero {
   margin-top: 30px;
 }
@@ -75,9 +66,6 @@ body {
   font-size: 18px;
   margin-bottom: 20px;
 }
-
-
-/* Call to Action Buttons */
 
 .cta-buttons button {
   margin: 0 10px;
@@ -96,8 +84,6 @@ body {
   border: 2px solid #6c63ff;
   color: #6c63ff;
 }
-
-/* Features Section */
 
 .features {
   padding: 50px;
@@ -126,8 +112,6 @@ body {
   height: auto;
 }
 
-/* Feature Subsections */
-
 .feature-sub-container {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -142,13 +126,6 @@ body {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   text-align: center;
 }
-
-.feature-sub .feature-button {
-  padding: 5px 20px;
-  margin-top: 10px;
-}
-
-/* FAQ Section */
 
 .faq {
   padding: 80px;
@@ -171,15 +148,6 @@ body {
   cursor: pointer;
 }
 
-.feature-image {
-  display: block;
-  max-width: 100%;
-  height: auto;
-  margin: 0 auto;
-}
-
-/* Blog Section */
-
 .blog-posts {
   padding: 20px;
 }
@@ -191,25 +159,17 @@ body {
   margin-bottom: 20px;
 }
 
-.blog-header h2 {
+.blog-subheader {
   margin: 0;
 }
 
 .view-all-button {
-  text-decoration: none; 
   background-color: purple; 
   color: white; 
   padding: 10px 20px; 
   border: none; 
   border-radius: 5px; 
   cursor: pointer; 
-  transition: background-color 0.3s; 
-  font-size: 16px; 
-  margin-top: 10px; 
-}
-
-.view-all-button:hover {
-  background-color: purple; 
 }
 
 .blog-list {
@@ -231,52 +191,11 @@ body {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
-.blog-item h3 {
-  margin: 10px 0 5px 0;
-}
-
-.blog-item p {
-  margin: 0;
-}
-
-
-/* Call to Action Free Trial Section */
-
 .cta-free-trial {
   text-align: center;
   padding: 40px 20px;
   background-color: #f7f7f7;
   margin: 20px 0;
-}
-
-.cta-free-trial h2 {
-  font-size: 2em;
-  margin: 0.5em 0;
-}
-
-.cta-free-trial p {
-  font-size: 1.2em;
-  margin-bottom: 1.5em;
-}
-
-.cta-buttons {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-}
-
-.primary-button {
-  padding: 10px 20px;
-  background-color: purple;
-  color: white;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: background-color 0.3s;
-}
-
-.primary-button:hover {
-  background-color: purple;
 }
 
 .footer {
@@ -295,43 +214,20 @@ body {
   flex: 1; 
   min-width: 150px; 
   padding: 0 15px; 
-  box-sizing: border-box; 
 }
 
 .footer-column h4 {
   margin-bottom: 10px; 
-  font-weight: bold; 
 }
-
-.footer-column ul {
-  list-style-type: none; 
-  padding: 0; 
-}
-
-.footer-column li {
-  margin-bottom: 8px; 
-  cursor: pointer; 
-}
-
-/* Styles for the footer bottom section */
 
 .footer-bottom {
   text-align: center; 
   padding: 15px; 
   background-color: #e9ecef; 
-  margin-top: 20px; 
 }
 
 .footer-logo {
   font-weight: bold; 
-  font-size: 16px; 
-  text-align: left;
-}
-
-.footer-bottom p {
-  margin: 0; 
-  color: #666; 
-  text-align: right;
 }
 
 /* Media Queries */
